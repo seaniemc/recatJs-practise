@@ -1,7 +1,5 @@
 "use strict";
 
-"use strict";
-
 var React = require('react');
 
 var AuthorList = React.createClass({
